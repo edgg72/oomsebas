@@ -6,7 +6,7 @@
 
 I'm a full stack software developer who is passionate about writing code, solving problems, automating stuff, and building software.
 
-- 📚 I’m currently learning new technologies like React js, Redux and data engineering courses.
+- 📚 I’m currently learning new technologies like React js, Redux and data engineering themes.
 - 👯 I’m looking for a software development job. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/omsebas) [Gmail](mailto:omsebas@gmail.com)
 
