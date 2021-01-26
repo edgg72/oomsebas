@@ -4,7 +4,7 @@
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/omsebas)
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/sebastian.o.marin.1/)
 
-I'm a full stack software developer who is passionate about writing code, solving problems, automating stuff, and building awwesome products for people.
+I'm a full stack software developer who is passionate about writing code, solving problems, automating stuff, and building awesome products for people.
 
 - 📚 I’m currently learning new technologies like React js, Redux and data engineering themes.
 - 📚 I’m looking for a software development job. 
